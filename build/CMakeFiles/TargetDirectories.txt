@@ -1,0 +1,9 @@
+/pfa/build/CMakeFiles/install/strip.dir
+/pfa/build/CMakeFiles/install/local.dir
+/pfa/build/CMakeFiles/install.dir
+/pfa/build/CMakeFiles/test-script.dir
+/pfa/build/CMakeFiles/rebuild_cache.dir
+/pfa/build/CMakeFiles/pfa.dir
+/pfa/build/CMakeFiles/edit_cache.dir
+/pfa/build/CMakeFiles/pfa-install.dir
+/pfa/build/CMakeFiles/list_install_components.dir

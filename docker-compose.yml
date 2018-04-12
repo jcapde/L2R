@@ -1,0 +1,16 @@
+version: '3'
+services:
+  pfa:
+    build: docker/pfa
+    image: pfa
+    #ports:
+    #- "${LOCAL_PGPORT}:5432"
+    volumes:
+    - .:/pfa
+    
+    #environment:
+    #- PGDATA=${PGDATA}
+    #- USER_ID=${POS}
+    #- POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+    user: "${USER_ID}:${GROUP_ID}"
+

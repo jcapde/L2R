@@ -1,0 +1,2 @@
+/pfa/bin/test-script
+/pfa/lib/pfa.so
